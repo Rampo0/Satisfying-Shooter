@@ -1,2 +1,1 @@
-# Satisfying-Shooter
-AR Shooter
+AR Interactive
